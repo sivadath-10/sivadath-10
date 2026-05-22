@@ -2,15 +2,14 @@
 
 I'm **SIVADATH K.V**, a B.Tech student in Artificial Intelligence and Data Science. I am passionate about AI, data science, and building intelligent systems that solve real-world problems.
 
-<a href="mailto:sivasivadath10@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge" /></a>
-<a href="tel:+917558091862"><img src="https://img.shields.io/badge/-Call-green?style=for-the-badge" /></a>
+
 
 <details>
   <summary>More about me</summary>
 
 - **Name**: SIVADATH K.V  
 - **Course**: B.Tech Artificial Intelligence / Data Science  
-- **Location**: Kozhikode  
+- **Location**: kerala,kozikode 
 - **Student & Developer**
 
 - I am a B.Tech AI & Data Science student learning machine learning, data analysis, and intelligent systems.
@@ -33,8 +32,7 @@ The program covers machine learning, data visualization, algorithms, and cloud c
 
 - **Dawn Public School** (2019 - 2022)  
 - **Rahmaniyya Higher Secondary** (2022 - 2024)  
-- **B.Tech AI & Data Science (Undergraduate)** (2024 - Present)  
-- **Mentor Academy for Design, Entrepreneurship, Innovation and Technology**
+- **Mentor Academy for Design, Entrepreneurship, Innovation and Technology B.Tech AI & Data Science (Undergraduate)**
 
 ---
 
@@ -53,18 +51,17 @@ The program covers machine learning, data visualization, algorithms, and cloud c
 
 - English  
 - Malayalam  
-- Hindi  
 
 ---
 
 <h2 id="programming_languages">Known Programming Languages</h2>
 
-- Python  
-- HTML  
-- C / C++  
+<br>
 
----
-
+<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=000000" alt="C" />
 <h2 id="projects">Projects</h2>
 
 | Project | Description |

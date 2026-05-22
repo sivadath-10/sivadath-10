@@ -37,10 +37,7 @@ The program covers machine learning, data visualization, algorithms, and cloud c
 
 ---
 
-<h2 id="language">Languages i know</h2>
 
-- English  
-- Malayalam  
 
 ---
 
@@ -56,10 +53,12 @@ The program covers machine learning, data visualization, algorithms, and cloud c
 <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&color=000000" alt="CSS3" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" 
+    <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> 
       <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-      <img src="https://img.shields.io/badge/Bloomer-FF4D4D?style=for-the-badge&logo=css3&logoColor=white" alt="Bloomer" />
-      <img src="https://img.shields.io/badge/UI%2FUX-6C63FF?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design" />
+      <img src="https://img.shields.io/badge/UI%2FUX-FF6B6B?style=for-the-badge&logo=adobecreativecloud&logoColor=white" alt="UI/UX"/>
+    
+      
+     
     
 <h2 id="projects">Projects</h2>
 
@@ -67,7 +66,7 @@ The program covers machine learning, data visualization, algorithms, and cloud c
 |--------|-------------|
 | Skill Swap App | A learning platform using Python, Django, JavaScript for backend and HTML for frontend, also using Flutter for development |
 | Number Guessing Game | A game where the user finds the number guessed by computer using Python Tkinter |
-| web application | a web application like instagram and facebook. using react.js |
+| web application | A web application like instagram and facebook. using react.js |
 
 ---
 
@@ -79,7 +78,7 @@ The program covers machine learning, data visualization, algorithms, and cloud c
 
 ---
 <h2 id="certificates">Core Experience</h2>
-<h2 id="certificates">Web application developer</h2> ThoughtMinds Systems Private Limited from 01stJuly 2025 to 31st
+<h4 id="certificates">Web application developer</h4> ThoughtMinds Systems Private Limited from 01stJuly 2025 to 31st
 July 2025
 
 - Software Engineer Internship focusing on ReactJS and JavaScript

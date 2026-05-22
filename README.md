@@ -1,51 +1,98 @@
 ## Hi there 👋
 
-I'm **Your Name**, a Certified Ethical Hacker, Bug Hunter, and Security Researcher. I specialize in vulnerability assessment and ethical hacking. My goal is to educate, inspire, and contribute to a safer digital world.
+I'm **SIVADATH K.V**, a B.Tech student in Artificial Intelligence and Data Science. I am passionate about AI, data science, and building intelligent systems that solve real-world problems.
 
-<a href="https://your-link.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sivasivadath10@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge" /></a>
+<a href="tel:+917558091862"><img src="https://img.shields.io/badge/-Call-green?style=for-the-badge" /></a>
 
 <details>
   <summary>More about me</summary>
 
-- **Name**: Your Name
-- **From**: Your Country
-- **Role**: Bug Hunter | Security Researcher | Penetration Tester
-- I have experience in cybersecurity, vulnerability assessment, and penetration testing.
-- I am continuously improving my skills in cybersecurity and ethical hacking.
-- Currently learning advanced security techniques and tools.
+- **Name**: SIVADATH K.V  
+- **Course**: B.Tech Artificial Intelligence / Data Science  
+- **Location**: Kozhikode  
+- **Student & Developer**
+
+- I am a B.Tech AI & Data Science student learning machine learning, data analysis, and intelligent systems.
+- I enjoy building real-world applications using Python, Django, JavaScript, HTML, and Flutter.
+- My goal is to become a skilled AI engineer and software developer.
 
 </details>
 
 ---
 
-<h2 id="knowledge_skills">Knowledge & Skills</h2>
+<h2 id="about_me">About Me</h2>
 
-<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+A Bachelor of Technology (B.Tech) in Artificial Intelligence and Data Science is an undergraduate program that provides essential skills in AI, machine learning, data analysis, and big data technologies. I learn to design and implement intelligent systems, work with large datasets, and apply advanced mathematical concepts in real-world applications.  
 
-    <!-- Add your skills badges here -->
-
-  </div>
-</div>
+The program covers machine learning, data visualization, algorithms, and cloud computing, preparing me for careers in technology, healthcare, finance, and e-commerce. Through hands-on projects and internships, I continuously improve my technical and problem-solving skills.
 
 ---
 
-<h2 id="Certifications">Certifications</h2>
+<h2 id="education">Education</h2>
 
-<div>
-
-<!-- Add your certifications here -->
-
-</div>
+- **Dawn Public School** (2019 - 2022)  
+- **Rahmaniyya Higher Secondary** (2022 - 2024)  
+- **B.Tech AI & Data Science (Undergraduate)** (2024 - Present)  
+- **Mentor Academy for Design, Entrepreneurship, Innovation and Technology**
 
 ---
 
-<h2 id="Projects">Projects</h2>
+<h2 id="skills">Skills</h2>
+
+- Logical Thinking  
+- Problem Solving  
+- Time Management  
+- Programming (Python, C, C++)  
+- Web Development (HTML, JavaScript)  
+- App Development (Flutter basics)
+
+---
+
+<h2 id="language">Languages</h2>
+
+- English  
+- Malayalam  
+- Hindi  
+
+---
+
+<h2 id="programming_languages">Known Programming Languages</h2>
+
+- Python  
+- HTML  
+- C / C++  
+
+---
+
+<h2 id="projects">Projects</h2>
 
 | Project | Description |
 |--------|-------------|
-| Project 1 | Description |
-| Project 2 | Description |
-| Project 3 | Description |
+| Skill Swap App | A learning platform using Python, Django, JavaScript for backend and HTML for frontend, also using Flutter for development |
+| Number Guessing Game | A game where the user finds the number guessed by computer using Python Tkinter |
+| Mentor Academy Platform | Educational platform for design, entrepreneurship, and innovation learning |
+
+---
+
+<h2 id="certificates">Certificates</h2>
+
+- 5G and IoT Workshop (2025)  
+- Conducted in collaboration with IICT Germany  
+
+---
+
+<h2 id="work">Work & Interests</h2>
+
+- Football Player  
+- Mobile Gamer  
+
+---
+
+<h2 id="contact">Contact</h2>
+
+- 📧 Email: sivasivadath10@gmail.com  
+- 📞 Phone: +91 75580 91862  
+- 📍 Location: Kozhikode  
 
 ---

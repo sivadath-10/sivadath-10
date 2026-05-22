@@ -37,14 +37,14 @@ The program covers machine learning, data visualization, algorithms, and cloud c
 
 ---
 
-<h2 id="language">Languages</h2>
+<h2 id="language">Languages i know</h2>
 
 - English  
 - Malayalam  
 
 ---
 
-<h2 id="programming_languages">Known Programming Languages</h2>
+<h2 id="programming_languages">Technical Stack</h2>
 
 <br>
 
@@ -73,15 +73,16 @@ The program covers machine learning, data visualization, algorithms, and cloud c
 
 <h2 id="certificates">Certificates</h2>
 -B.Tech in AI & Data Science: Mentor Engineering College (2024 - 2028)
+
 -Global Certification: 5G and IoT Certification (IIT & IICT Germany Collaboration)
 
 
 ---
 <h2 id="certificates">Core Experience</h2>
-<h2 id="certificates">Web application developer</h2>ThoughtMinds Systems Private Limited from 01stJuly 2025 to 31st
+<h2 id="certificates">Web application developer</h2> ThoughtMinds Systems Private Limited from 01stJuly 2025 to 31st
 July 2025
-- Software Engineer Internship
-focusing on ReactJS and JavaScript
+
+- Software Engineer Internship focusing on ReactJS and JavaScript
 
 
 

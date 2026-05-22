@@ -34,16 +34,6 @@ The program covers machine learning, data visualization, algorithms, and cloud c
 - **Rahmaniyya Higher Secondary** (2022 - 2024)  
 - **Mentor Academy for Design, Entrepreneurship, Innovation and Technology B.Tech AI & Data Science (Undergraduate)**
 
----
-
-<h2 id="skills">Skills</h2>
-
-- Logical Thinking  
-- Problem Solving  
-- Time Management  
-- Programming (Python, C, C++)  
-- Web Development (HTML, JavaScript)  
-- App Development (Flutter basics)
 
 ---
 
@@ -77,21 +67,24 @@ The program covers machine learning, data visualization, algorithms, and cloud c
 |--------|-------------|
 | Skill Swap App | A learning platform using Python, Django, JavaScript for backend and HTML for frontend, also using Flutter for development |
 | Number Guessing Game | A game where the user finds the number guessed by computer using Python Tkinter |
-| Mentor Academy Platform | Educational platform for design, entrepreneurship, and innovation learning |
+| web application | a web application like instagram and facebook. using react.js |
 
 ---
 
 <h2 id="certificates">Certificates</h2>
+-B.Tech in AI & Data Science: Mentor Engineering College (2024 - 2028)
+-Global Certification: 5G and IoT Certification (IIT & IICT Germany Collaboration)
 
-- 5G and IoT Workshop (2025)  
-- Conducted in collaboration with IICT Germany  
 
 ---
+<h2 id="certificates">Core Experience</h2>
+<h2 id="certificates">Web application developer</h2>ThoughtMinds Systems Private Limited from 01stJuly 2025 to 31st
+July 2025
+- Software Engineer Internship
+focusing on ReactJS and JavaScript
 
-<h2 id="work">Work & Interests</h2>
 
-- Football Player  
-- Mobile Gamer  
+
 
 ---
 
@@ -99,6 +92,6 @@ The program covers machine learning, data visualization, algorithms, and cloud c
 
 - 📧 Email: sivasivadath10@gmail.com  
 - 📞 Phone: +91 75580 91862  
-- 📍 Location: Kozhikode  
+- 📍 Location: kerala,kozikode 
 
 ---

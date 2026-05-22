@@ -62,6 +62,15 @@ The program covers machine learning, data visualization, algorithms, and cloud c
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=000000" alt="C" />
+    <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?style=for-the-badge&logo=c%2B%2B&color=000000" alt="C++" />
+<img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&color=000000" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" 
+      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+      <img src="https://img.shields.io/badge/Bloomer-FF4D4D?style=for-the-badge&logo=css3&logoColor=white" alt="Bloomer" />
+      <img src="https://img.shields.io/badge/UI%2FUX-6C63FF?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design" />
+    
 <h2 id="projects">Projects</h2>
 
 | Project | Description |
